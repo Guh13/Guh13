@@ -1,4 +1,4 @@
-### Olá! 👋 Sou o Gustavo.
+### Olá! 👋 Me chamo Gustavo.
 
 - 👨‍💻 Desenvolvedor de Software.
 - 🚀 Explorando o universo de HTML, CSS, JavaScript e Design.
